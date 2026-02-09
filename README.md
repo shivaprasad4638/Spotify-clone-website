@@ -34,7 +34,7 @@ Once the Spotify clone is open in your browser, You can then click the play butt
 ![image](https://user-images.githubusercontent.com/48729682/222124168-70e510a9-0232-4c71-9939-cd7e8c512fcc.png)
 
 
-## Recent Updates (2026)
+## Recent Updates
 
 - **Fixed Assets**: Replaced broken local images (Logo, Background) with reliable online assets (FontAwesome Icons, CSS Gradients).
 - **Online Music**: Updated song playlinks to use online demo streams, ensuring playback works without local MP3 files.
